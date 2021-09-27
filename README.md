@@ -18,6 +18,8 @@
   <img align="center" alt="Vitor-PhotoShop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Vitor-PremierePro" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg">
   <img align="center" alt="Vitor-AfterEffects" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg">
+  <img align="center" alt="Vitor-FinalCutPro" height="40" width="40" src="https://img.icons8.com/color/48/000000/final-cut-pro-x.png">
+  <img align="center" alt="Vitor-LogicProX" height="50" width="50" src="https://img.icons8.com/color/480/000000/logic-pro-x.png">
 
 </div>
   
